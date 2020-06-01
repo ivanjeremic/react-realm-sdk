@@ -1,6 +1,6 @@
 {
   "name": "react-realm-sdk",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "react-realm-sdk React component",
   "main": "lib/index.js",
   "module": "es/index.js",
@@ -28,11 +28,15 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },
-  "author": "",
-  "homepage": "",
+  "author": "Ivan Jeremic",
+  "homepage": "https://github.com/ivanjeremic/react-realm-sdk.git",
   "license": "MIT",
-  "repository": "",
+  "repository": "https://github.com/ivanjeremic/react-realm-sdk.git",
   "keywords": [
-    "react-component"
+    "realm",
+    "mongodb",
+    "stitch",
+    "react",
+    "sdk"
   ]
 }
